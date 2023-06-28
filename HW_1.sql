@@ -6,3 +6,5 @@ CREATE TABLE `homework_database`.`mobile_phones` (
   `prices_mobile_phones` DECIMAL NULL,
   `quantity_mobile_phones` INT NOT NULL,
   PRIMARY KEY (`id_mobile_phones`));
+
+
